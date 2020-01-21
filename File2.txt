@@ -1,3 +1,5 @@
 Change Request 1-
 
-for Updating adding item 
+for Updating adding items
+
+Change File2 to Partial Implementation of Biling 
