@@ -2,8 +2,13 @@ Change Request 1-
 
 for Updating adding items
 
-Change - File2 to Partial Implementation of Biling 
 
-Change - the file to check push to Remote Server
 
-Change - made by team mate on remote server
+
+Change 1 -> File2 to Partial Implementation of Biling 
+
+change 2 -> the file to check push to remote server
+
+Change 3 -> at local master
+
+Change 4 -> Made by team Mate 
