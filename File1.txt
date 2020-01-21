@@ -6,6 +6,9 @@ Change for Feature -> Login
 
 Change for Feature -> Logout
 
-Change to Fix -> Bug1
-
 Change to From Remote server by my TeamMate
+
+Change to Fix Bug1
+
+Change to Fix Bug2
+
